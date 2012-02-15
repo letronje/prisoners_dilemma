@@ -1,0 +1,51 @@
+always D
+
+always C
+
+random
+
+t4t(start with coop, then repeat opponent's last strategy)
+
+dt4t(start with coop, then repeat opponent's last strategy)
+
+start with C, alternate
+
+start with D, alternate
+
+always D, C 10% of the time
+
+always C, D 10% of the time
+
+start with C, use opponent's most common strategey in the moves so far
+
+start with D, use opponent's most common strategey in the moves so far
+
+
+always C, but always D after the 1st D from opponent
+
+always D, but always C after the 1st C from opponent
+
+
+------------------------
+
+!t4t(repeat opposite of opponent's last strategy)
+
+use opposite of opponent's most common strategey from last 'n' 'moves
+
+start with D, then C always
+
+start with C, then D always
+
+C probability: k%, D probability: 100-K%
+
+always D, random 10% of the time
+
+always C, random 10% of the time
+
+
+
+next move = best move you could have made to give opponent maximum benefit in last move.
+
+
+
+
